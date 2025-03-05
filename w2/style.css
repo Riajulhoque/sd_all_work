@@ -634,14 +634,14 @@ nav{
             font-weight: 600;
             /* line-height: 22px; */
             letter-spacing: 0%;
-            m
+            
             
           }
+          &:hover {
+            background-color: rgb(0, 106, 80);
+            color: aliceblue;
+          }
           
-        }
-        &:hover h4{
-          background-color: rgb(0, 106, 80);
-          color: aliceblue;
         }
 
       }
